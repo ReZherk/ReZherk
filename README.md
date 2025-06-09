@@ -4,5 +4,6 @@
 - 🖥️ Java – Mi fiel compañero en el backend
 - ⚛️ React – Creando experiencias interactivas en la web
 - 🎯 Dart & Flutter – Diseñando aplicaciones móviles increíbles
+  
 📌 En este espacio, compartiré proyectos, ideas y soluciones que reflejan mi crecimiento como desarrollador. ¡Siempre abierto a aprender, colaborar y mejorar!
 🔗 ¡Conéctate conmigo y exploremos juntos este mundo digital! 🌍
