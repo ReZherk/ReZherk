@@ -1,4 +1,3 @@
-
 ✨ ¡Hola, mundo! Soy Patrick Alexander Alcántara Sedano 👨‍💻
 🎓 Estudiante de Ingeniería de Sistemas apasionado por la tecnología, el desarrollo de software y la innovación. Actualmente, estoy en un 🚀 viaje de aprendizaje explorando nuevas herramientas y perfeccionando mis habilidades en el mundo del desarrollo.
 
