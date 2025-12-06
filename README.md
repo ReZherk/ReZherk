@@ -24,7 +24,7 @@
 - 👨‍💻 Estudiante de **Ingeniería de Sistemas** con enfoque en **desarrollo backend en Java**.  
 - 💡 Interesado en **Spring Boot, JPA/Hibernate, SQL, arquitecturas de software modernas**.  
 - 🌱 Actualmente reforzando mis conocimientos en **Java Backend Development** y mejores prácticas de ingeniería.  
-- 🤝 Abierto a colaborar en proyectos que me permitan crecer como desarrollador y aportar valor al equipo.  
+- 🤝 Abierto a colaborar en proyectos que me permitan crecer como desarrollador y aportar valor al equipo.  .
 
 ---
 
